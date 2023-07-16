@@ -36,7 +36,7 @@ header a {
 
 body {
     background-image: linear-gradient(to bottom, beige 15%, cyan 40%,
-    burlywood 60%, lightblue 90%);
+    rgb(184, 186, 230) 60%, lightblue 90%);
     
     
 }
