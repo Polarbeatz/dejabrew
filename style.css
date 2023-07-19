@@ -41,17 +41,21 @@ header a {
 }
 
 body {
-  
+   
     background-color:  #A3795b;
    
 }
 
+
+
 .image {
-    width: 350px;
+    width: 450px;
     height: fit-content;
     border: 3px solid coral;
-    margin-top: -3rem;    
+     
 }
+
+
 
 .image img {
     width: fit-content;
@@ -121,17 +125,17 @@ img {
 
 }
 
+
 .content  {
     width: 100%;
     position: center;
-    margin-top: 20px;
-    padding-top: 5.5rem;
+    margin-top: 60px;
+    padding-top: 1.5rem;
     padding-bottom: 20px;
     text-align: center;  
     color: white;
     
 }
-
 
 
 
@@ -193,7 +197,7 @@ button:hover {
 
 section {
     
-   min-height: 100vh;  
+   
    justify-content: center;
    color: white;
    
@@ -204,18 +208,18 @@ section {
 h2 {
     
     font-weight: 700;
-    margin-top: 50px;
+    margin-top: 5px;
     position: relative;
     font-weight: bold;
     font-size: 50px;
-    
     text-align: center;
+    
  
 }
 
 .image2{
-    width: 300px;
-    height: 250px;
+    width: 250px;
+    height: fit-content;
     border: 3px solid white;
     float: left;
     margin: 15px;
@@ -232,7 +236,9 @@ h2 {
 
 
 .pAbout {
-    width: 300px;
+
+    width: 600px;
+    height: fit-content;
     font-weight: lighter;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border: 2px solid rgb(255, 255, 255);
@@ -241,24 +247,21 @@ h2 {
     padding: 35px;
     border-radius: 25px;
     background-color: #379bdd;
+    margin-left: 30rem;
+    margin-top: 105px;
    
 }
 
-
-
-.dial {
-
-    font-size: larger;
-    margin: 25px;
-    
+.aboutPic  {
+    width: 250px;
+    height: 300px;
+    float: left;
+    border: 3px solid coral;
+    margin-left: 150px;
+  
 }
 
-#num {
- 
-    font-size: 1rem;
-    margin: 20px;
-    text-align: center;
-}
+
 
 .imageNew {
 
@@ -273,3 +276,8 @@ h2 {
 h4 {
     color: skyblue;
 }
+
+
+
+
+ 
